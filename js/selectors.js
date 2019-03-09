@@ -1,5 +1,5 @@
 // declare your functions here...
 $('p');
-$(function() {
+$(function paragraphSelector() {
   'p';
 });
